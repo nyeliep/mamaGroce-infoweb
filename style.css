@@ -1,0 +1,25 @@
+.homepage{
+    background-image: url(/images/grocegroce.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-y:hidden ;
+    height: 96vh;
+     }
+  ul{
+    list-style: none;
+    display: flex;
+    gap: 180px;
+    color:  #20784D;
+    font-size: x-large;
+} 
+
+.welcome{
+   text-align: center;
+   font-size: x-large;
+
+
+}
+.logos{
+    width: 15%;
+    height: 40px;
+}
